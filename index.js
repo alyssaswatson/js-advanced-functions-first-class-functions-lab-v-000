@@ -8,7 +8,6 @@ const returnLastTwoDrivers = function (drivers) {
 };
 
 const selectingDrivers = [
-  { name: 'Sandi Metz' },
-  { name: 'Anita Borg' },
-  { name: 'Ada Lovelace' }
+  returnFirstTwoDrivers,
+  returnLastTwoDrivers
 ];
