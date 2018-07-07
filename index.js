@@ -1,4 +1,4 @@
 // Code your solution in this file!
-const returnFirstTwoDrivers = fuction (drivers) {
+const returnFirstTwoDrivers = function (drivers) {
   return drivers;
 };
